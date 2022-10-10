@@ -1,1 +1,1 @@
-Display lines containing the pattern “root” from the file /etc/passwd
+script that displays all users and their home directories, sorted by users.
