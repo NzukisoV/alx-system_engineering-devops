@@ -1,1 +1,1 @@
-a script that counts the number of directories and sub-directories in the current directory.
+Replace all characters A and c from input to Z and e respectively.
