@@ -1,1 +1,1 @@
-script that displays all users and their home directories, sorted by users.
+Display the number of lines that contain the pattern “bin” in the file /etc/passwd
