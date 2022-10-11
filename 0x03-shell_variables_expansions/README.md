@@ -1,1 +1,1 @@
-script that creates a new global variable
+Add /action to the PATH
