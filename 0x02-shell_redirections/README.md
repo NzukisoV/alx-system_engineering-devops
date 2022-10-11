@@ -1,1 +1,1 @@
-shell script that creates a file named exactly \*\'Best School\'\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line.
+Display all lines of the file /etc/ssh/sshd_config starting with a letter.
