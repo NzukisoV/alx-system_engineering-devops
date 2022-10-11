@@ -1,1 +1,1 @@
-Replace all characters A and c from input to Z and e respectively.
+shell script that creates a file named exactly \*\'Best School\'\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line.
